@@ -1,6 +1,6 @@
 # Drug Overdose Death Rates in the United States
 
-This is our drug overdose analysis for the United States, where we compare genders, races, and ages within each state.
+This is our drug overdose analysis for the United States, where we compare death rates by geography (states and counties) and demographics (age, sex, and race).
 
 ## Requirements
 
