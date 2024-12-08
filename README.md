@@ -19,7 +19,7 @@ The data used in this project comes from the following sources:
 
 - **[Drug Overdose Death Rates by Sex, Age, & Race Data](https://healthdata.gov/dataset/Drug-overdose-death-rates-by-drug-type-sex-age-rac/g82c-hg4c/about_data)**
 
-## Thank You
+## Acknowledgements
 
 Thank you for taking the time to view our analysis and graphs. We hope this project provides valuable insights into drug overdose trends in the United States.
 
