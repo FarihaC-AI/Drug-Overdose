@@ -4,9 +4,17 @@ This is our drug overdose analysis for the United States, where we compare death
 
 ## Requirements
 
-Before running the Jupyter Notebook file **`drug_overdose(3).ipynb`**, please ensure you have the Python package **`geopandas`** installed. If you are using Anaconda, you can install it using the following command in your terminal:
+Before running the Jupyter Notebook file **`drug_overdose.ipynb`**, please ensure you have the following Python packages installed:
+
+- **pandas**
+- **numpy**
+- **matplotlib**
+- **geopandas**
+
+You can install all these packages using the following command:
 
 ```bash
+conda install pandas numpy matplotlib
 conda install -c conda-forge geopandas
 ```
 ## Data Sources
