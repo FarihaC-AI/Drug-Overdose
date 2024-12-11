@@ -29,13 +29,8 @@ The data used in this project comes from the following sources:
 
 ## Acknowledgements
 
-Thank you for taking the time to view our analysis and graphs. We hope this project provides valuable insights into drug overdose trends in the United States.
+Thank you for taking the time to view our analysis and graphs. I hope this project provides valuable insights into drug overdose trends in the United States.
 
-## Team Members
 
-- **Fariha Choudhury**
-- **Jennie Son**
-- **Rashonda Lockwood**
-- **Norsineh Butcher**
 
 If you have any questions or feedback, feel free to reach out!
